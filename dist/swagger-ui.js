@@ -4,6 +4,7 @@
  * @link http://swagger.io
  * @license Apache-2.0
  */
+
 (function(){'use strict';
 
 window.SwaggerUi = Backbone.Router.extend({
